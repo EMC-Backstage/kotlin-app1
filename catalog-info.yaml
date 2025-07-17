@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: kotlin
+  description: basic kotlin
+  tags:
+    - kotlin
+    - gradle
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: EMC-Backstage/kotlin
+spec:
+  type: language
+  lifecycle: development
+  owner: EMC-Backstage
+  system: andriod language
