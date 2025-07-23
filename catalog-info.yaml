@@ -10,7 +10,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: EMC-Backstage/kotlin
 spec:
-  type: language
+  type: service
   lifecycle: development
   owner: backend-team
-  system: andriod language
+  system: andriod-platform
