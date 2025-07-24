@@ -9,7 +9,7 @@ metadata:
     - gradle
   annotations:
     backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: EMC-Backstage/kotlin
+    github.com/project-slug: EMC-Backstage/kotlin-app1
 spec:
   type: service
   lifecycle: development
