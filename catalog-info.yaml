@@ -10,6 +10,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: EMC-Backstage/kotlin-app1
+    github.com/workflows: main.yml
 spec:
   type: service
   lifecycle: development
