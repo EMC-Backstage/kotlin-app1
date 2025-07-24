@@ -13,5 +13,5 @@ metadata:
 spec:
   type: service
   lifecycle: development
-  owner: backend-team
+  # owner: backend-team
   system: andriod-platform
