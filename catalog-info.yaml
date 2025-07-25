@@ -15,4 +15,4 @@ spec:
   type: service
   lifecycle: development
   owner: backend-team
-  system: andriod-platform
+  system: android-platform
