@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: kotlin-app1
-  namespace: default
+  namespace: backend-team
   description: basic kotlin
   tags:
     - kotlin
